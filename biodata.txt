@@ -1,2 +1,3 @@
 NO.REG	:1920010188
 Nama	:Raditya Arya Prasetyo
+Jurusan	:Teknik Informatika
