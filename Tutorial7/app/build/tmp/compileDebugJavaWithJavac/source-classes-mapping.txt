@@ -1,0 +1,15 @@
+com/Contoh_Rename/tutorial7/ActivityDataStudents.java
+ com.Contoh_Rename.tutorial7.ActivityDataStudents
+ com.Contoh_Rename.tutorial7.ActivityDataStudents$1
+com/Contoh_Rename/tutorial7/ActivityAddStudents.java
+ com.Contoh_Rename.tutorial7.ActivityAddStudents
+com/Contoh_Rename/tutorial7/ActivityModifyStudents.java
+ com.Contoh_Rename.tutorial7.ActivityModifyStudents
+com/Contoh_Rename/tutorial7/DBManager.java
+ com.Contoh_Rename.tutorial7.DBManager
+com/Contoh_Rename/tutorial7/MainActivity.java
+ com.Contoh_Rename.tutorial7.MainActivity
+com/Contoh_Rename/Haloo/BuildConfig.java
+ com.Contoh_Rename.Haloo.BuildConfig
+com/Contoh_Rename/tutorial7/DatabaseHelper.java
+ com.Contoh_Rename.tutorial7.DatabaseHelper
